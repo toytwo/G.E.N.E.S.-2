@@ -39,9 +39,22 @@ As such, `genomeLength` must but a multiple of 16 where `genomeLength` divided b
 ### Deep Simulation Customization
 
 ### Simulation Screen
+> ### Environment
+>   1. Use double-precision position
+    2. "Island" map (barriers surrounding)
+    3. Procedurely generate items within map
+      - Barriers
+      - Rewards
+    4. Generate items during simulation
+    5. Allow for interaction between subjects
+    6. Customizable everything
+>
 
+> ### Display
+>   1. Use QT
+>   2. Full grapical interface
 ### Subject Brain Map Screen
-
+>TODO: I have to think about this for a bit bc I want a much better interface
 
 ## New Features
 
