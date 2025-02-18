@@ -37,6 +37,7 @@ Generate a random binary string of length `genomeLength` and parse it using the 
 As such, `genomeLength` must but a multiple of 16 where `genomeLength` divided by 16 is number of genes a subject will have and the minimum number of nodes in a subject's brain.
 
 ### Deep Simulation Customization
+Almost every internal simulation setting will be customizable by the user.
 
 ### Simulation Screen
 > ### Environment
@@ -59,10 +60,13 @@ As such, `genomeLength` must but a multiple of 16 where `genomeLength` divided b
 ## New Features
 
 ### Step Viewing and Replays
+Steps can be viewed one by one and previous steps can be reviewed. Data for each will step will be stored in order to enable this feature.
 
 ### Customizable Environmental Pressures
+A list of environmental pressures that can be toggled on and off. Certain combinations will be forbidden.
 
 ### Simulation Statistics Screen
+A screen dedicated to various simulation statistics replete with graphs and charts.
 
 ### Accurate Genetic Relativity
 Subjects will be colored in such a way that subjects with similar genetics will have a similar color.
